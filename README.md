@@ -10,7 +10,7 @@ Hello, I'm Era 👋<br>🔭 Software Engineering Graduate sharing about my journ
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=abrinera&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&card_width=400)
 ![](https://nirzak-streak-stats.vercel.app/?user=abrinera&theme=synthwave&hide_border=false&card_width=400)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abrinera&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact&size_weight=0&count_weight=1&card_width=450)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abrinera&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact&size_weight=0&count_weight=1&card_width=800)
 
 
 ---
