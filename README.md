@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm Era 👋<br>🔭 Software Engineering Graduate sharing about my journey and learning in tech.<br>🌱 I’m currently learning Web Development, DevOps, and Cloud Services.
+Hello, I'm Era 👋<br>🔭 Software Engineering Graduate sharing about my journey and learning in tech.<br>🌱 I’m currently learning DevOps, and Cloud Services.
 
 
 ## 🌐 Socials:
